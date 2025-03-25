@@ -13,6 +13,8 @@
 
 ## Author: **Dai-Phuong Ngo (Liam)**
 
+## Timeline: January 6th - May 16th, 2025
+
 ## Course Goals:
 
 - Understand the scope of Modern Big Data Analytics (BDA) and the current technology landscape in BDA.
