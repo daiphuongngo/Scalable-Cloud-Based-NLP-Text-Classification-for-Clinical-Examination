@@ -51,6 +51,10 @@ This dataset contains sample medical transcriptions for various medical specialt
 
 https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
 
+## System Architecture Design:
+
+![ChatGPT Image May 8, 2025, 04_54_23 AM](https://github.com/user-attachments/assets/b6bfde4b-ca4b-4e58-a822-a1dbd4d46bd5)
+
 ## Data Exploration and Analysis
 
 (to be continued)
