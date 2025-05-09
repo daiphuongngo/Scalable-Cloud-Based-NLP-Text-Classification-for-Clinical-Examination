@@ -133,14 +133,14 @@ Here’s a **summary of highlights** for my **GCP-based Clinical NLP Classificat
 
 ### 📈 4. **Prediction Pipeline**
 
-* **Code**: `predict_sample_input.py`
+* **Code**: `dataproc_batch_predict.py`
 * **Flow**:
 
   * Reads new `.csv` input file (e.g., clinical transcription)
   * Applies **same NLP preprocessing** (cleaning + TF-IDF)
   * Loads trained model from GCS
   * Predicts class labels
-  * Saves results to GCS as `sample_predictions.csv`
+  * Saves results to BigQuery
 
 ---
 
