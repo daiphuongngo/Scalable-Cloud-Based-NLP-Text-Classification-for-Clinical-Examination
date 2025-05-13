@@ -144,7 +144,7 @@ Here’s a **summary of highlights** for my **GCP-based Clinical NLP Classificat
 
 ---
 
-### 🔔 5. **Real-time Alerting (Pub/Sub / Cloud Function – Optional)**
+### 🔔 5. **Real-time Alerting (Pub/Sub / Cloud Function – in progress)**
 
 * **Future add-on**:
 
