@@ -141,19 +141,11 @@ Here’s a **summary of highlights** for my **GCP-based Clinical NLP Classificat
   * Loads trained model from GCS
   * Predicts class labels
   * Saves results to BigQuery
+![image](https://github.com/user-attachments/assets/a7c0b544-ae57-4f90-becd-6941b2b706b2)
 
 ---
 
-### 🔔 5. **Real-time Alerting (Pub/Sub / Cloud Function – in progress)**
-
-* **Future add-on**:
-
-  * Trigger **Pub/Sub** topic when a `.csv` file lands in `predictions/` folder
-  * Cloud Function parses it and sends alerts if certain specialties (e.g., `"Oncology"`) are predicted
-
----
-
-### 🛠️ 6. **Tech Stack Summary**
+### 🛠️ 5. **Tech Stack Summary**
 
 * **Compute**: Google Dataproc, Vertex AI
 * **Data Tools**: PySpark, Pandas, Scikit-learn, TF-IDF, LabelEncoder
